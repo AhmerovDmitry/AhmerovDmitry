@@ -1,7 +1,7 @@
 ### Welcome to my page 👋
 
 - 🙇🏻‍♂️ Study, study and study again
-- 💻 I’m currently working on MyPets (The best app for people and their pets 🐶)
+- 💻 I’m currently working on [MyPets](https://github.com/AhmerovDmitry/MyPets "The best app for people and their pets 🐶")
 
 <!--
 **AhmerovDmitry/AhmerovDmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
