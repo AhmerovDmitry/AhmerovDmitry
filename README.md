@@ -1,6 +1,7 @@
 ### Welcome to my page 👋
 
-Study, study and study again 🙇🏻‍♂️
+- 🙇🏻‍♂️ Study, study and study again
+- 💻 I’m currently working on MyPets (The best app for people and their pets 🐶)
 
 <!--
 **AhmerovDmitry/AhmerovDmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🙇🏻‍♂️ Study, study and study again
+- 💻 I’m currently working on MyPets (The best app for people and their pets 🐶)
 -->
