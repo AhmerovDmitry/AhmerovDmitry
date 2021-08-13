@@ -3,7 +3,7 @@
 - 🙇🏻‍♂️ Study, study and study again
 - 🧑🏻‍🔬 Interesting new technologies
 - 🦸🏻‍♂️ Saving business money
-- 💻 I’m currently working on [MyPets](https://github.com/AhmerovDmitry/MyPets "The best app for people and their pets 🐶")
+- 💻 I’m currently working on [MyPets](https://github.com/AhmerovDmitry/MyPets_v2 "The best app for people and their pets 🐶")
 - 👩🏻‍💻 App design [URL](https://www.behance.net/gallery/103420839/soncept-of-the-mobile-pet-care-app "The best app for people and their pets 🐶")
 
 <!--
